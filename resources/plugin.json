@@ -1,0 +1,5 @@
+{
+  "main": "com.hypermine.arcturus.roomimporter.RoomImporterPlugin",
+  "name": "Arcturus RoomImporter Plugin",
+  "author": "Scott Stamp <scott@hypermine.com>"
+}
